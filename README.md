@@ -57,5 +57,5 @@ Want to contribute? Follow these steps:
 This repository is licensed under the [MIT License](LICENSE).
 
 ## 📩 Contact
-For any questions, reach out via [your email or GitHub profile].
+For any questions, reach out via [(https://github.com/ShivaCharan033)].
 
